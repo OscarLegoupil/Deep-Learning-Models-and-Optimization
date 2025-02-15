@@ -26,7 +26,7 @@ New notebooks will be added over time, covering various aspects of deep learning
 ---
 
 ### ** 2️⃣Bigram Model**  
-📌 *[Bigram model.ipynb](Bigram model.ipynb)*  
+📌 *[Bigram model.ipynb](Bigrammodel.ipynb)*  
 
 ✅ Implements a **bigram language model**, where words are predicted based on the previous token.  
 ✅ Uses **count-based probability estimation** to generate realistic text sequences.  
