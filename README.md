@@ -2,7 +2,7 @@
 *A collection of notebooks implementing fundamental deep learning concepts from scratch.*
 
 ## 📌 Overview  
-This repository contains **Jupyter notebooks** created as part of a deep learning course. Each notebook focuses on a specific topic, implementing key deep learning models **without relying on high-level libraries like TensorFlow or PyTorch**, to reinforce a deep understanding of the underlying mechanics.
+This repository contains **Jupyter notebooks** created as part of a deep learning course. Each notebook focuses on a specific topic, implementing key deep learning models with the use of libraries like TensorFlow and PyTorch, to reinforce a deep understanding of the underlying mechanics.
 
 New notebooks will be added over time, covering various aspects of deep learning, from foundational architectures to optimization techniques.
 
