@@ -11,7 +11,7 @@ New notebooks will be added over time, covering various aspects of deep learning
 ## 📁 Notebooks  
 
 ### **1️⃣ Bigram Model**  
-📌 *[Bigram model.ipynb](Bigram model.ipynb)*  
+📌 *[Bigram model.ipynb](Bigrammodel.ipynb)*  
 
 ✅ Implements a **bigram character-level language model**, predicting the next character based on the previous one.  
 ✅ Uses **PyTorch tensors** to compute a **co-occurrence matrix** for learning character transitions.  
